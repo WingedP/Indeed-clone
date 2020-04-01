@@ -1,0 +1,40 @@
+.bigolwrapper{
+    border: 1px solid rgb(191, 199, 223);
+    /* background-color: rgb(163, 231, 233); */
+
+    background-color: rgb(229, 232, 240);
+    /* background-image: url(https://www.pngkey.com/png/full/989-9890974_stars-star-backgrounds-background-effects-effect-class-2009.png); */
+}
+.logo{
+    /* margin-top: 20px;
+    margin-bottom: 10px; */
+    border-radius: 50%;
+   }
+
+.logoimg{
+    width: 45px; height: 45px; 
+    border: 1px solid pink; border-radius: 50%;
+    transform: rotate(0deg);
+    transition:0.4s;
+    margin-right: 5px;
+}
+.logo:hover{
+    background-color:rgba(235, 115, 155,0.3);
+    transition:0.3s;
+    
+}
+.canId{
+    margin: 0px 0px 6px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px 10px 0px 0px;
+    font-size: 17px;
+}
+.carddetail{
+    /* border: 1px solid black; */
+}
+.buttonCandidate{
+    /* border: 1px solid rgb(0, 0, 0); */
+    position: absolute;
+    bottom: 10%;
+    padding-right: 55px;
+}
