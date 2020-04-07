@@ -2,9 +2,28 @@
     border: 1px solid rgb(191, 199, 223);
     /* background-color: rgb(163, 231, 233); */
 
-    background-color: rgb(229, 232, 240);
+    background-color: rgb(50, 64, 100);
     /* background-image: url(https://www.pngkey.com/png/full/989-9890974_stars-star-backgrounds-background-effects-effect-class-2009.png); */
 }
+.candidateListTitle{
+    text-align: center;
+    font-size: 40px;
+    margin:30px 0px 30px 0px; 
+    color: thistle;
+    text-shadow: 100px 100px 100px #FF0000, 0 0 5px rgb(48, 233, 73);
+    /* background-color: whitesmoke; */
+    /* border:"1px solid black"   */
+}
+
+.cardstyle{
+    width: 18rem;
+    height:40rem;
+    background-color:rgba(162, 236, 210, 0.719);
+     margin:0px 10px 10px 0px;
+      text-align:center
+}
+
+
 .logo{
     /* margin-top: 20px;
     margin-bottom: 10px; */
@@ -37,4 +56,11 @@
     position: absolute;
     bottom: 10%;
     padding-right: 55px;
+}
+
+.candidateavatar{
+    border-radius: 50%;
+    /* border: 1px solid black; */
+    width: 250px;
+margin: 1rem 0px 0px 1rem
 }

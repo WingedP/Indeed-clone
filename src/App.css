@@ -1,3 +1,37 @@
 body{
-    background-color: rgba(170, 228, 208, 0.719);
+    background-color: rgba(191, 236, 221, 0.719);
+    /* color:rgb(153, 29, 147); */
+    overflow-x: hidden;
+    background-image: url(https://www.festivalclaca.cat/pics/b/1/18936_abstract-waves-png.png);
 }
+
+.navibar{
+   background: linear-gradient(rgb(243, 211, 211),rgb(203, 203, 240));
+}
+.loginbutton{
+    font-size: 20px;
+    margin: 0px 5px 0px 0px; 
+    background: linear-gradient(40deg, rgb(54, 222, 228), rgb(232, 238, 155));
+    box-shadow: 0px 0px 0px transparent;
+    border: 1px solid rgb(105, 129, 128);
+    border-radius: 5px;
+    text-shadow: 0px 0px 0px transparent;
+}
+.loginbutton:hover{
+    background: linear-gradient(40deg, rgb(232, 238, 155),rgb(54, 222, 228));
+    color: rgb(212, 41, 41); 
+    border: 2px solid rgb(240, 91, 23);
+  
+}
+    
+.userstyle{
+    font-size: 20px;
+    margin: 0px 5px 0px 0px; 
+    padding-left: 5px !important;
+    width: 120px;
+    /* background: linear-gradient(40deg, rgb(167, 206, 27), rgb(231, 48, 140)); */
+    box-shadow: 0px 0px 0px transparent;
+    border: 1px solid rgb(105, 129, 128);
+    border-radius: 5px;
+    text-shadow: 0px 0px 0px transparent;}
+
