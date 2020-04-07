@@ -10,7 +10,8 @@ let userdetail=()=>{
   <div style={{fontSize:"25px", fontStyle:"italics", textAlign:"center"}}>Welcome!
     <span style={{textAlign:"center",color:"rgb(153, 29, 147)" }}>   {user.username}</span>
  
-  <div style={{fontSize:"15px"}}>counter is done yay</div>
+  <div style={{fontSize:"15px"}}>last night I tried to created heroku json server but failed so use json-server --watch candidates.json -p 3020 instead
+</div>
   </div>)} 
 }
 
